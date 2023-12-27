@@ -1,0 +1,5 @@
+Category,Quantity,References,Value,LCSC Part #,Footprint
+Capacitors,1,C1,100nF,C49678 ,0805_CAP
+Integrated Circuits,1,U1,SN74LVC1G04DBVR,C7827 ,SOT95P280X145-5N
+Miscellaneous,1,ATX,39-29-920x,,MINIFITJR_20W_M
+Miscellaneous,1,J1,15247240,,MINIFITJR_22W_F
