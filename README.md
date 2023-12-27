@@ -2,7 +2,7 @@
 ATX Adapter for some PowerMacs
 
 
-Made for my own 8100 because I just have a bare board with no real PSU, this should also fit other things with a 22-way connector, including PCI PowerMacs. For those you'll need the 3.3V auxiliary harness - a spot to solder it in has been provided on the PCB.
+Made for my own 8100 because I just have a bare board with no real PSU, this should also fit other things with a 22-way connector, including some PCI PowerMacs. For those you'll need the 3.3V auxiliary harness - a spot to solder it in has been provided on the PCB.
 
 ![image](https://github.com/GeorgeRudolf/PMacATX/assets/24400566/da456385-260d-4bc0-ab6d-d4907ef4cab8)
 
