@@ -7,6 +7,8 @@ Made for my own 8100 because I just have a bare board with no real PSU, this sho
 ![image](https://github.com/GeorgeRudolf/PMacATX/assets/24400566/da456385-260d-4bc0-ab6d-d4907ef4cab8)
 
 
+This comes with no warranty. I'm not responsible if your machine explodes.
+
 Instructions:
 
 1- Download the files from this repo
