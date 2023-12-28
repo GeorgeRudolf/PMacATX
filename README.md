@@ -1,12 +1,9 @@
-# PMacATX
+![image](https://github.com/GeorgeRudolf/PMacATX/assets/24400566/d0ac560d-864a-492b-b327-624bfc4ee919)# PMacATX
 ATX Adapter for some PowerMacs
-
 
 Made for my own 8100 because I just have a bare board with no real PSU, this should also fit other things with a 22-way connector, including some PCI PowerMacs. For those you'll need the 3.3V auxiliary harness - a spot to solder it in has been provided on the PCB.
 
-![image](https://github.com/GeorgeRudolf/PMacATX/assets/24400566/19d45def-aec6-44e8-b74d-0e8084304dd6)
-
-
+![image](https://github.com/GeorgeRudolf/PMacATX/assets/24400566/ff40ac33-56cd-4715-9351-53752c71fa98)
 
 This comes with no warranty. I'm not responsible if your machine explodes.
 
@@ -34,6 +31,4 @@ For the love of what's holiest, pay attention to which end of the connector you'
 Alternately, use the gerbers with your favorite PCB house and just buy the two SMD parts listed in the BoM separately.
 
 Schematics for the curious:
-![image](https://github.com/GeorgeRudolf/PMacATX/assets/24400566/8e475dac-4ac2-4d16-af47-5ea85f9ff2cb)
-
-
+![image](https://github.com/GeorgeRudolf/PMacATX/assets/24400566/a955cce4-3d1f-4474-9e2d-e95dd54c1e48)
