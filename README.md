@@ -32,3 +32,15 @@ Alternately, use the gerbers with your favorite PCB house and just buy the two S
 
 Schematics for the curious:
 ![image](https://github.com/GeorgeRudolf/PMacATX/assets/24400566/a955cce4-3d1f-4474-9e2d-e95dd54c1e48)
+
+
+An alternate version is provided for chinese MiniFit connectors with odd spacing. A reshaped version has been added to hopefully avoid the need for filing - thanks to croissantking at 68kmla for testing on a Q840av
+
+Original, filed to fit without modifying case
+![IMG_8652](https://github.com/GeorgeRudolf/PMacATX/assets/24400566/87544aad-1d49-4329-82e7-cdf7fe7cf250)
+![IMG_8651](https://github.com/GeorgeRudolf/PMacATX/assets/24400566/86463f56-0742-4779-a5d5-d2ee0a68889e)
+
+Reshaped version
+![1718070307856](https://github.com/GeorgeRudolf/PMacATX/assets/24400566/3a5068b8-6118-4eef-a114-017a085f5599)
+
+
